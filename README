@@ -1,0 +1,12 @@
+ Lab03: jmp-to-stack
+====================
+
+   Try?
+   
+   $ SHELLCODE="hi" ./target 1
+   
+   No more environment. What are the potental targets?
+
+ Hint : 
+	I believe the stack of this problem is executable.
+
